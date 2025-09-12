@@ -1,12 +1,6 @@
 # Hi 👋 I'm Suryateja Kesireddy
 
-🎯 Aspiring Java Full Stack Developer  
-🌱 Currently learning **Java, Spring Boot, SQL, React.js**  
-💻 Projects:
-- Job Portal (React + Spring Boot)
-- Instagram Clone
-- Laundry Management System
-
+🌱 Currently learning **Java, SQL,Python**  
 📫 Contact me:
 - Email: ksuryateja170@gmail.com
 - LinkedIn: [Suryateja on LinkedIn](https://www.linkedin.com/in/suryateja-kesireddy-881367278/)
